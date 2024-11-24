@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Admin", "description": "Full access to all features" },
+  { "id": 2, "name": "Viewer", "description": "View-only access" }
+]
