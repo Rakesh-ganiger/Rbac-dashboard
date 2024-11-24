@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import PermissionList from '../components/PermissionList';
 import PermissionModal from '../components/PermissionModal';
-import permissionsData from '../data/permissions.json';  // Correct the import path
+import permissionsData from '../data/Permissions.json';  // Correct the import path
 
 function Permissions() {
   const [permissions, setPermissions] = useState(permissionsData);
